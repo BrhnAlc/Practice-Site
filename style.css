@@ -125,13 +125,12 @@ footer:hover{
 .son{
     width: 80px;
     height: 80px;
-    position:absolute;
-    right: 5rem;
-    top: 90rem;
     border: 2px solid ;
     border-radius: 50%;
+    position: fixed;
+    bottom: 2rem;
+    right: 3rem;
 }
 section img:hover{
 background-color: chocolate;
-position: fixed;
 }
