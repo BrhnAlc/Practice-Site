@@ -100,6 +100,7 @@ div a:hover{
  }
  img{
     width: 100%;
+    
  }
  p{ 
     text-align: center;
@@ -108,7 +109,7 @@ div a:hover{
    
 
 }
-footer{
+button{
     position: absolute;
     top: 63rem;
     left: 3rem;
@@ -120,7 +121,7 @@ footer{
     border-radius: 10px;
     
 }
-footer:hover{
+button:hover{
     background-color: maroon;
 }
 .son{
