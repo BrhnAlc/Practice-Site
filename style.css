@@ -23,14 +23,14 @@ body{
     right: 3rem;
     color:red; 
     border: 3px solid black;
-   
+   text-decoration: none;
 }
 .giriş{
     position: absolute;
     right: 10rem;
     color:red;
     border: 3px solid black;
-    
+    text-decoration: none;
     
 }
 div a{
@@ -44,6 +44,7 @@ div a{
 }
 div a:hover{
     background-color: lightblue;
+    text-decoration: underline;
 }
 
 
